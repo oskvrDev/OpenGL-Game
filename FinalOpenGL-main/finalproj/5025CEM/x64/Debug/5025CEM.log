@@ -1,0 +1,4 @@
+﻿  main.cpp
+GameEngine.obj : error LNK2019: unresolved external symbol SOIL_load_image referenced in function "public: static void __cdecl GameEngine::Setup(void)" (?Setup@GameEngine@@SAXXZ)
+GameEngine.obj : error LNK2019: unresolved external symbol SOIL_free_image_data referenced in function "public: static void __cdecl GameEngine::Setup(void)" (?Setup@GameEngine@@SAXXZ)
+C:\Users\oskar\Desktop\finalproj(1)\5025CEM\x64\Debug\5025CEM.exe : fatal error LNK1120: 2 unresolved externals
